@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "750452559468",
+    "firebase_url": "https://pmobfb384-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pmobfb384",
+    "storage_bucket": "pmobfb384.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750452559468:android:65bb52f674852a43fb1249",
+        "android_client_info": {
+          "package_name": "com.depa.firebase384"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm2a6Kz4XtqWaN9Sj6_5jvq-peI3CsFeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750452559468:android:887a78046d32e043fb1249",
+        "android_client_info": {
+          "package_name": "com.rayhan.postest8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm2a6Kz4XtqWaN9Sj6_5jvq-peI3CsFeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
